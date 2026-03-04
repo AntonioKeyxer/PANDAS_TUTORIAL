@@ -1,0 +1,11 @@
+ID_Producto;Nombre;Categoria;Precio_Unitario;Cantidad_Stock
+101;Leche Entera 1L;Lacteos;1.2;50
+102;Pan de Molde;Panadera;;30
+103;Arroz Integral 1kg;Abarrotes;2.5;100
+104;Manzana Roja kg;Frutas;1.8;n.a.
+105;Detergente Liquido;Limpieza;12.5;15
+106;Huevos x12;Lacteos;;40
+107;Pasta Penne 500g;Abarrotes;;85
+108;Aceite de Oliva;;7.3;20
+109;Yogurt Natural;Lacteos;0.6;n.a.
+110;Papel Higienico 4pk;Limpieza;2.1;60
