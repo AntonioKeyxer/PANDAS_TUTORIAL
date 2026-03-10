@@ -1,0 +1,10 @@
+dia,temperatura,velocidad_viento,evento
+1/1/2026,32.0,6.0,Lluvia
+1/4/2026,,9.0,Soleado
+1/5/2026,28.0,,Nieve
+1/6/2026,,7.0,
+1/7/2026,32.0,,Lluvia
+1/8/2026,,,Soleado
+1/9/2026,,,
+1/10/2026,34.0,8.0,Nublado
+1/11/2026,40.0,12.0,Soleado
