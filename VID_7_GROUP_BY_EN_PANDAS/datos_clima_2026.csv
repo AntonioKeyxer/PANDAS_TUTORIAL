@@ -1,0 +1,13 @@
+dia,ciudad,temperatura,velocidad_viento,evento
+01/01/2026,Nueva York,32,6,Lluvia
+02/01/2026,Nueva York,36,7,Soleado
+03/01/2026,Nueva York,28,12,Nieve
+04/01/2026,Nueva York,33,7,Soleado
+01/01/2026,Lima,90,5,Soleado
+02/01/2026,Lima,85,12,Niebla
+03/01/2026,Lima,87,15,Niebla
+04/01/2026,Lima,92,5,Lluvia
+01/01/2026,Paris,45,20,Soleado
+02/01/2026,Paris,50,13,Nublado
+03/01/2026,Paris,54,8,Nublado
+04/01/2026,Paris,42,10,Nublado
